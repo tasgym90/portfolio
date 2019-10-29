@@ -58,7 +58,7 @@ padding: 1px;
 }
 
 .taylor-image{
- background-image: url('../images/taylor-image.jpg');
+ background-image: url('../images/taylor-image.JPG');
  background-size: cover;
  background-position: center;
  height: 300px;
@@ -75,7 +75,7 @@ padding: 1px;
   position: relative;
   top: 80%;
   width: 60%;
-  color: white;
+  color: black;
 }
 
 footer {
