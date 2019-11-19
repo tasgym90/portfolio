@@ -23,6 +23,13 @@ nav {
 
 }
 
+  ol li {
+  font-family: 'Varela', sans-serif;
+  padding: .25rem;
+  font-size: 1rem;
+
+  }
+
   .hero-image {
     background-image: url("images/cactus.jpg");
     width: 100%;
@@ -174,6 +181,16 @@ nav {
   margin: 0 auto;
 }
 
+.resume-content {
+  top: 100px;
+}
+
+.resume-logo {
+  top: 100px;
+  width: 150px;
+}
+
+
 footer {
   margin-top: 150px;
   background-color: rgb(77, 77, 77);
@@ -190,11 +207,13 @@ footer {
   font-family: 'Montserrat', sans-serif;
 }
 
-#about-me-photo{
+#about-me-photo {
   opacity:.70;
+  width: 250px;
+
 }
 
 #about-me-photo:hover {
-  opacity:1
+  opacity: 1;
 
 }
